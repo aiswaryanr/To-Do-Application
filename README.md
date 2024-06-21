@@ -23,3 +23,7 @@ Task Tracker is a simple web application that helps you keep track of your tasks
 - HTML
 - CSS
 - JavaScript
+
+## Demonstration
+
+![Screenshot 2024-06-12 163843](https://github.com/aiswaryanr/To-Do-Application/assets/133225093/79739ea6-3902-4926-8c05-b22eff22273d)
